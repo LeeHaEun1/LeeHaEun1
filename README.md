@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ha Eun Lee
+### 👋 Hi, I’m Ha Eun Lee
 
 Welcome to my GitHub!
 
