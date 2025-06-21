@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Haeun Lee
+### Hi, I’m Haeun Lee 👋
 Welcome to my GitHub!
 
 I started out in game development and have recently developed a strong interest in data analytics.  
